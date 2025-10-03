@@ -17,4 +17,6 @@ Data Source Two -  https://www.kaggle.com/datasets/simfour/rugby-6-nations-resul
 The pre-processing and preparation for this project was conducted within Python, using libraries such as pandas and numpy.
 The data was first imported into a pandas data frame using the pd.read_csv function, with the initial exploration of the data set being conducted to gain the first insights.
 
-![images: initial_data_review](images/initial_data_review.PNG)
+<br>
+
+![Initial Data Review](images/initial_data_review.png)
