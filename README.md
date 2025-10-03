@@ -20,3 +20,8 @@ The data was first imported into a pandas data frame using the pd.read_csv funct
 <br>
 
 ![Initial Data Review](images/initial_data_review.png)
+
+<br>
+
+The data was sorted by date and the index reset to ensure the match results are in chronological order.
+
